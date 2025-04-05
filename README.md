@@ -1,5 +1,7 @@
 ## Hi there! 👋
 
+💻 Junior C++ developer (Qt, STL, Boost, Multithreading etc for Linux/Windows)
+
 🏭 15 years of experience in energy, industrial safety, energy efficiency and energy systems design
 
 📚 Currently studying at School 21
