@@ -1,12 +1,14 @@
 ## Hi there! 👋
 
-💻 Junior C++ developer (Qt, STL, Boost, Multithreading etc for Linux/Windows)
+💻 C++ developer (Qt, STL, Boost, Multithreading etc for Linux/Windows)
 
 🏭 15 years of experience in energy, industrial safety, energy efficiency and energy systems design
 
-📚 Currently studying at School 21
+📚 School 21 Alumni (develop branch)
 
-🌳 Hoping for the best
+🌳 Hoping for the best  
+
+📚 Studying now: Golang, Rust, Kotlin and C++ of course
 
 🗺️ Russia, Velikiy Novgorod
 
