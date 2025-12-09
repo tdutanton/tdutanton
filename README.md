@@ -8,7 +8,7 @@
 
 🌳 Hoping for the best  
 
-📚 Studying now: Golang, Rust, Kotlin and C++ of course
+📚 Studying now: Golang, Rust, Java, Kotlin and C++ of course
 
 🗺️ Russia, Velikiy Novgorod
 
