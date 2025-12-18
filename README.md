@@ -13,5 +13,3 @@
 🗺️ Russia, Velikiy Novgorod
 
 ![tdutanton's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdutanton&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdutanton)](https://github.com/anuraghazra/github-readme-stats)
